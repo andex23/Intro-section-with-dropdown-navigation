@@ -11,7 +11,7 @@ It's a solution of a junior challange called "Intro Section With Dropdown Naviga
 
 Here is the link of the challange- https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5
 
-Here is the solution site url- 
+Here is the solution site url- https://andex23.github.io/Intro-section-with-dropdown-navigation/
 
 Built with
 -HTML
