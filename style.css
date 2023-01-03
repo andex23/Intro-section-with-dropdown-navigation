@@ -95,7 +95,7 @@ nav .nav-links{
     margin-top: 75px;
     flex: 1;
 }
-.nav-links .nav-links{
+.nav-links .nav-link{
     cursor: pointer;
     position: relative;
 }
